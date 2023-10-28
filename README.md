@@ -89,7 +89,7 @@ plt.show()
 
 # OUPUT
 ## Dataset
-![model]("a.png")
+![model](a.png)
 ## isnull().sum()
 ![model](b.png)
 ## Dataset with outliers

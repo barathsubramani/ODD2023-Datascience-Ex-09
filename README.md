@@ -80,8 +80,6 @@ plt.show()
 ![model](b.png)
 ## Dataset with outliers
 ![model](c.png)
-## Dataset without outliers
-![model](d.png)
 ## Which day of the week has the highest total bill amount?
 ![model](1.png)
 ## What is the average tip amount given by smokers and non-smokers?
@@ -90,7 +88,6 @@ plt.show()
 ![model](3.png)
 ## Which gender tends to leave higher tips?
 ![model](4.png)
-
 ## Which dining party size group tends to have the highest average total bill amount?
 ![model](7.png)
 ## What is the distribution of tip amounts for each day of the week?
